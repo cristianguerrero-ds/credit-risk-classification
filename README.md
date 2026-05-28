@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Credit Risk Assessment with Fair AI: A Data Scientist's Approach
 
 ## 💡 Project Overview
